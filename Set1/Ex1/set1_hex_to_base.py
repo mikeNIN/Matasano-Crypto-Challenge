@@ -8,6 +8,8 @@ script as anwer to the matasano crypto challenges:
 http://cryptopals.com/sets/1/challenges/1/ modified to module
 Input: hex string () (ie. 4d not 0x4d)
 Output: base64 encoded input string
+
+written by Michal Freygant 04-01-2016
 '''
 
 
